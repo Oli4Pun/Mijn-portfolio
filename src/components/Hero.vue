@@ -25,7 +25,7 @@ export default {
   name: 'Hero',
   data() {
     return {
-      label: 'Developer & Problem Solver',
+      label: 'Junior Developer & IT Support',
       name: 'Olivier Punie',
       tagline: 'Building digital experiences',
       description: 'Gemotiveerde IT-professional met een graduaat in programmeren. Sterk in softwareontwikkeling en data-analyse, met oog voor detail en een probleemoplossende aanpak.'

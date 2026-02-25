@@ -31,7 +31,7 @@ export default {
       infoItems: [
         { label: 'Location', value: 'Bilzen, Belgium' },
         { label: 'Education', value: 'Graduaat Programmeren, PXL Hasselt' },
-        { label: 'Languages', value: 'Nederlands (Native), English (Proficient)' }
+        { label: 'Languages', value: 'Nederlands (Moedertaal), Engels (Zeer goed)' }
       ]
     }
   }

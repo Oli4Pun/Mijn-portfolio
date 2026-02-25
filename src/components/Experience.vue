@@ -21,7 +21,6 @@
         <h3 class="projects-heading">Projects</h3>
         <div class="projects-placeholder">
           <p class="placeholder-text">
-            Voeg hier je projecten toe! Update de 'projects' array in deze component.
           </p>
         </div>
       </div>
