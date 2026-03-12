@@ -1,44 +1,33 @@
-# mijn-portfolio
+# Portfolio Website
 
-This template should help get you started developing with Vue 3 in Vite.
+## Over het project
+Dit project is een persoonlijke **portfolio website ontwikkeld met Vue.js**.  
+De website toont mijn **CV, vaardigheden en softwareprojecten** en dient als een online portfolio waar bezoekers en werkgevers mijn werk kunnen bekijken.
 
-## Recommended IDE Setup
+## Functionaliteiten
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Overzicht van mijn **CV**
+- Presentatie van mijn **software projecten**
+- Beschrijving van mijn **technische vaardigheden**
+- Navigatie tussen verschillende secties
+- Responsieve layout voor desktop en mobiele apparaten
 
-## Recommended Browser Setup
+## Technologieën
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+De website is ontwikkeld met:
 
-## Customize configuration
+- **Vue.js**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **Node.js / npm**
+- **Git & GitHub**
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Doel van het project
 
-## Project Setup
+Dit project werd ontwikkeld om:
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Mijn **CV online beschikbaar te maken**
+- Mijn **softwareprojecten te presenteren**
+- Mijn **vaardigheden als developer te tonen**
+- Ervaring op te doen met **Vue.js en frontend development**
